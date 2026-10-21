@@ -25,3 +25,4 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+echo "project_TA2027_BACKUP.zip" >> .gitignore
